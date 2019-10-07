@@ -1,0 +1,10 @@
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\bin\Debug\Section1Exam.exe.config
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\bin\Debug\Section1Exam.exe
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\bin\Debug\Section1Exam.pdb
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\obj\Debug\Section1Exam.csprojAssemblyReference.cache
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\obj\Debug\Section1Exam.Teletype.resources
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\obj\Debug\Section1Exam.Properties.Resources.resources
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\obj\Debug\Section1Exam.csproj.GenerateResource.cache
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\obj\Debug\Section1Exam.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\obj\Debug\Section1Exam.exe
+C:\Users\Kevin Tran\source\repos\Section1Exam\Section1Exam\obj\Debug\Section1Exam.pdb
