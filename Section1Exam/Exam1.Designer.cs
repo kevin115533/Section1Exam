@@ -76,11 +76,12 @@
             // 
             this.btnA.BackColor = System.Drawing.Color.LightBlue;
             this.btnA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnA.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnA.Location = new System.Drawing.Point(13, 204);
+            this.btnA.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnA.Location = new System.Drawing.Point(13, 209);
             this.btnA.Name = "btnA";
             this.btnA.Size = new System.Drawing.Size(60, 60);
             this.btnA.TabIndex = 0;
+            this.btnA.TabStop = false;
             this.btnA.Text = "A";
             this.btnA.UseVisualStyleBackColor = false;
             this.btnA.Click += new System.EventHandler(this.BtnA_Click);
@@ -89,11 +90,12 @@
             // 
             this.btnB.BackColor = System.Drawing.Color.LightBlue;
             this.btnB.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnB.Location = new System.Drawing.Point(79, 204);
+            this.btnB.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnB.Location = new System.Drawing.Point(79, 209);
             this.btnB.Name = "btnB";
             this.btnB.Size = new System.Drawing.Size(60, 60);
             this.btnB.TabIndex = 1;
+            this.btnB.TabStop = false;
             this.btnB.Text = "B";
             this.btnB.UseVisualStyleBackColor = false;
             this.btnB.Click += new System.EventHandler(this.BtnB_Click);
@@ -102,11 +104,12 @@
             // 
             this.btnC.BackColor = System.Drawing.Color.LightBlue;
             this.btnC.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnC.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnC.Location = new System.Drawing.Point(145, 204);
+            this.btnC.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnC.Location = new System.Drawing.Point(145, 209);
             this.btnC.Name = "btnC";
             this.btnC.Size = new System.Drawing.Size(60, 60);
             this.btnC.TabIndex = 2;
+            this.btnC.TabStop = false;
             this.btnC.Text = "C";
             this.btnC.UseVisualStyleBackColor = false;
             this.btnC.Click += new System.EventHandler(this.BtnC_Click);
@@ -115,11 +118,12 @@
             // 
             this.btnD.BackColor = System.Drawing.Color.LightBlue;
             this.btnD.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnD.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnD.Location = new System.Drawing.Point(211, 204);
+            this.btnD.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnD.Location = new System.Drawing.Point(211, 209);
             this.btnD.Name = "btnD";
             this.btnD.Size = new System.Drawing.Size(60, 60);
             this.btnD.TabIndex = 3;
+            this.btnD.TabStop = false;
             this.btnD.Text = "D";
             this.btnD.UseVisualStyleBackColor = false;
             this.btnD.Click += new System.EventHandler(this.BtnD_Click);
@@ -128,11 +132,12 @@
             // 
             this.btnE.BackColor = System.Drawing.Color.LightBlue;
             this.btnE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnE.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnE.Location = new System.Drawing.Point(277, 204);
+            this.btnE.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnE.Location = new System.Drawing.Point(277, 209);
             this.btnE.Name = "btnE";
             this.btnE.Size = new System.Drawing.Size(60, 60);
             this.btnE.TabIndex = 4;
+            this.btnE.TabStop = false;
             this.btnE.Text = "E";
             this.btnE.UseVisualStyleBackColor = false;
             this.btnE.Click += new System.EventHandler(this.BtnE_Click);
@@ -141,11 +146,12 @@
             // 
             this.btnF.BackColor = System.Drawing.Color.LightBlue;
             this.btnF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnF.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnF.Location = new System.Drawing.Point(343, 204);
+            this.btnF.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnF.Location = new System.Drawing.Point(343, 209);
             this.btnF.Name = "btnF";
             this.btnF.Size = new System.Drawing.Size(60, 60);
             this.btnF.TabIndex = 5;
+            this.btnF.TabStop = false;
             this.btnF.Text = "F";
             this.btnF.UseVisualStyleBackColor = false;
             this.btnF.Click += new System.EventHandler(this.BtnF_Click);
@@ -154,11 +160,12 @@
             // 
             this.btnG.BackColor = System.Drawing.Color.LightBlue;
             this.btnG.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnG.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnG.Location = new System.Drawing.Point(409, 204);
+            this.btnG.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnG.Location = new System.Drawing.Point(409, 209);
             this.btnG.Name = "btnG";
             this.btnG.Size = new System.Drawing.Size(60, 60);
             this.btnG.TabIndex = 6;
+            this.btnG.TabStop = false;
             this.btnG.Text = "G";
             this.btnG.UseVisualStyleBackColor = false;
             this.btnG.Click += new System.EventHandler(this.BtnG_Click);
@@ -167,11 +174,12 @@
             // 
             this.btnH.BackColor = System.Drawing.Color.LightBlue;
             this.btnH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnH.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnH.Location = new System.Drawing.Point(475, 204);
+            this.btnH.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnH.Location = new System.Drawing.Point(475, 209);
             this.btnH.Name = "btnH";
             this.btnH.Size = new System.Drawing.Size(60, 60);
             this.btnH.TabIndex = 7;
+            this.btnH.TabStop = false;
             this.btnH.Text = "H";
             this.btnH.UseVisualStyleBackColor = false;
             this.btnH.Click += new System.EventHandler(this.BtnH_Click);
@@ -180,11 +188,12 @@
             // 
             this.btnI.BackColor = System.Drawing.Color.LightBlue;
             this.btnI.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnI.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnI.Location = new System.Drawing.Point(541, 204);
+            this.btnI.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnI.Location = new System.Drawing.Point(541, 209);
             this.btnI.Name = "btnI";
             this.btnI.Size = new System.Drawing.Size(60, 60);
             this.btnI.TabIndex = 8;
+            this.btnI.TabStop = false;
             this.btnI.Text = "I";
             this.btnI.UseVisualStyleBackColor = false;
             this.btnI.Click += new System.EventHandler(this.BtnI_Click);
@@ -193,11 +202,12 @@
             // 
             this.btnJ.BackColor = System.Drawing.Color.LightBlue;
             this.btnJ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnJ.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnJ.Location = new System.Drawing.Point(610, 204);
+            this.btnJ.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnJ.Location = new System.Drawing.Point(610, 209);
             this.btnJ.Name = "btnJ";
             this.btnJ.Size = new System.Drawing.Size(60, 60);
             this.btnJ.TabIndex = 9;
+            this.btnJ.TabStop = false;
             this.btnJ.Text = "J";
             this.btnJ.UseVisualStyleBackColor = false;
             this.btnJ.Click += new System.EventHandler(this.BtnJ_Click);
@@ -206,11 +216,12 @@
             // 
             this.btnK.BackColor = System.Drawing.Color.LightBlue;
             this.btnK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnK.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnK.Location = new System.Drawing.Point(676, 204);
+            this.btnK.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnK.Location = new System.Drawing.Point(676, 209);
             this.btnK.Name = "btnK";
             this.btnK.Size = new System.Drawing.Size(60, 60);
             this.btnK.TabIndex = 10;
+            this.btnK.TabStop = false;
             this.btnK.Text = "K";
             this.btnK.UseVisualStyleBackColor = false;
             this.btnK.Click += new System.EventHandler(this.BtnK_Click);
@@ -219,11 +230,12 @@
             // 
             this.btnL.BackColor = System.Drawing.Color.LightBlue;
             this.btnL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnL.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnL.Location = new System.Drawing.Point(740, 204);
+            this.btnL.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnL.Location = new System.Drawing.Point(740, 209);
             this.btnL.Name = "btnL";
             this.btnL.Size = new System.Drawing.Size(60, 60);
             this.btnL.TabIndex = 11;
+            this.btnL.TabStop = false;
             this.btnL.Text = "L";
             this.btnL.UseVisualStyleBackColor = false;
             this.btnL.Click += new System.EventHandler(this.BtnL_Click);
@@ -232,11 +244,12 @@
             // 
             this.btnM.BackColor = System.Drawing.Color.LightBlue;
             this.btnM.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnM.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnM.Location = new System.Drawing.Point(806, 204);
+            this.btnM.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnM.Location = new System.Drawing.Point(806, 209);
             this.btnM.Name = "btnM";
             this.btnM.Size = new System.Drawing.Size(60, 60);
             this.btnM.TabIndex = 12;
+            this.btnM.TabStop = false;
             this.btnM.Text = "M";
             this.btnM.UseVisualStyleBackColor = false;
             this.btnM.Click += new System.EventHandler(this.BtnM_Click);
@@ -245,11 +258,12 @@
             // 
             this.btnN.BackColor = System.Drawing.Color.LightBlue;
             this.btnN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnN.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnN.Location = new System.Drawing.Point(873, 204);
+            this.btnN.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnN.Location = new System.Drawing.Point(873, 209);
             this.btnN.Name = "btnN";
             this.btnN.Size = new System.Drawing.Size(60, 60);
             this.btnN.TabIndex = 13;
+            this.btnN.TabStop = false;
             this.btnN.Text = "N";
             this.btnN.UseVisualStyleBackColor = false;
             this.btnN.Click += new System.EventHandler(this.BtnN_Click);
@@ -258,11 +272,12 @@
             // 
             this.btnO.BackColor = System.Drawing.Color.LightBlue;
             this.btnO.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnO.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnO.Location = new System.Drawing.Point(939, 204);
+            this.btnO.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnO.Location = new System.Drawing.Point(939, 209);
             this.btnO.Name = "btnO";
             this.btnO.Size = new System.Drawing.Size(60, 60);
             this.btnO.TabIndex = 14;
+            this.btnO.TabStop = false;
             this.btnO.Text = "O";
             this.btnO.UseVisualStyleBackColor = false;
             this.btnO.Click += new System.EventHandler(this.BtnO_Click);
@@ -271,11 +286,12 @@
             // 
             this.btnP.BackColor = System.Drawing.Color.LightBlue;
             this.btnP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnP.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnP.Location = new System.Drawing.Point(1005, 204);
+            this.btnP.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnP.Location = new System.Drawing.Point(1005, 209);
             this.btnP.Name = "btnP";
             this.btnP.Size = new System.Drawing.Size(60, 60);
             this.btnP.TabIndex = 15;
+            this.btnP.TabStop = false;
             this.btnP.Text = "P";
             this.btnP.UseVisualStyleBackColor = false;
             this.btnP.Click += new System.EventHandler(this.BtnP_Click);
@@ -284,11 +300,12 @@
             // 
             this.btnQ.BackColor = System.Drawing.Color.LightBlue;
             this.btnQ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnQ.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnQ.Location = new System.Drawing.Point(1071, 204);
+            this.btnQ.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQ.Location = new System.Drawing.Point(1071, 209);
             this.btnQ.Name = "btnQ";
             this.btnQ.Size = new System.Drawing.Size(60, 60);
             this.btnQ.TabIndex = 16;
+            this.btnQ.TabStop = false;
             this.btnQ.Text = "Q";
             this.btnQ.UseVisualStyleBackColor = false;
             this.btnQ.Click += new System.EventHandler(this.BtnQ_Click);
@@ -297,11 +314,12 @@
             // 
             this.btnR.BackColor = System.Drawing.Color.LightBlue;
             this.btnR.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnR.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnR.Location = new System.Drawing.Point(1137, 204);
+            this.btnR.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnR.Location = new System.Drawing.Point(1137, 209);
             this.btnR.Name = "btnR";
             this.btnR.Size = new System.Drawing.Size(60, 60);
             this.btnR.TabIndex = 17;
+            this.btnR.TabStop = false;
             this.btnR.Text = "R";
             this.btnR.UseVisualStyleBackColor = false;
             this.btnR.Click += new System.EventHandler(this.BtnR_Click);
@@ -310,11 +328,12 @@
             // 
             this.btn9.BackColor = System.Drawing.Color.LightBlue;
             this.btn9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn9.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn9.Location = new System.Drawing.Point(1138, 279);
             this.btn9.Name = "btn9";
             this.btn9.Size = new System.Drawing.Size(60, 60);
             this.btn9.TabIndex = 18;
+            this.btn9.TabStop = false;
             this.btn9.Text = "9";
             this.btn9.UseVisualStyleBackColor = false;
             this.btn9.Click += new System.EventHandler(this.Btn9_Click);
@@ -323,11 +342,12 @@
             // 
             this.btnS.BackColor = System.Drawing.Color.LightBlue;
             this.btnS.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnS.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnS.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnS.Location = new System.Drawing.Point(13, 279);
             this.btnS.Name = "btnS";
             this.btnS.Size = new System.Drawing.Size(60, 60);
             this.btnS.TabIndex = 19;
+            this.btnS.TabStop = false;
             this.btnS.Text = "S";
             this.btnS.UseVisualStyleBackColor = false;
             this.btnS.Click += new System.EventHandler(this.BtnS_Click);
@@ -336,11 +356,12 @@
             // 
             this.btnT.BackColor = System.Drawing.Color.LightBlue;
             this.btnT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnT.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnT.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnT.Location = new System.Drawing.Point(79, 279);
             this.btnT.Name = "btnT";
             this.btnT.Size = new System.Drawing.Size(60, 60);
             this.btnT.TabIndex = 20;
+            this.btnT.TabStop = false;
             this.btnT.Text = "T";
             this.btnT.UseVisualStyleBackColor = false;
             this.btnT.Click += new System.EventHandler(this.BtnT_Click);
@@ -349,11 +370,12 @@
             // 
             this.btnU.BackColor = System.Drawing.Color.LightBlue;
             this.btnU.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnU.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnU.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnU.Location = new System.Drawing.Point(145, 279);
             this.btnU.Name = "btnU";
             this.btnU.Size = new System.Drawing.Size(60, 60);
             this.btnU.TabIndex = 21;
+            this.btnU.TabStop = false;
             this.btnU.Text = "U";
             this.btnU.UseVisualStyleBackColor = false;
             this.btnU.Click += new System.EventHandler(this.BtnU_Click);
@@ -362,11 +384,12 @@
             // 
             this.btnW.BackColor = System.Drawing.Color.LightBlue;
             this.btnW.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnW.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnW.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnW.Location = new System.Drawing.Point(277, 279);
             this.btnW.Name = "btnW";
             this.btnW.Size = new System.Drawing.Size(60, 60);
             this.btnW.TabIndex = 22;
+            this.btnW.TabStop = false;
             this.btnW.Text = "W";
             this.btnW.UseVisualStyleBackColor = false;
             this.btnW.Click += new System.EventHandler(this.BtnW_Click);
@@ -375,11 +398,12 @@
             // 
             this.btnV.BackColor = System.Drawing.Color.LightBlue;
             this.btnV.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnV.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnV.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnV.Location = new System.Drawing.Point(211, 279);
             this.btnV.Name = "btnV";
             this.btnV.Size = new System.Drawing.Size(60, 60);
             this.btnV.TabIndex = 23;
+            this.btnV.TabStop = false;
             this.btnV.Text = "V";
             this.btnV.UseVisualStyleBackColor = false;
             this.btnV.Click += new System.EventHandler(this.BtnV_Click);
@@ -388,11 +412,12 @@
             // 
             this.btnZ.BackColor = System.Drawing.Color.LightBlue;
             this.btnZ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnZ.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnZ.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnZ.Location = new System.Drawing.Point(475, 279);
             this.btnZ.Name = "btnZ";
             this.btnZ.Size = new System.Drawing.Size(60, 60);
             this.btnZ.TabIndex = 24;
+            this.btnZ.TabStop = false;
             this.btnZ.Text = "Z";
             this.btnZ.UseVisualStyleBackColor = false;
             this.btnZ.Click += new System.EventHandler(this.BtnZ_Click);
@@ -401,11 +426,12 @@
             // 
             this.btnPeriod.BackColor = System.Drawing.Color.LightBlue;
             this.btnPeriod.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPeriod.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPeriod.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPeriod.Location = new System.Drawing.Point(823, 349);
             this.btnPeriod.Name = "btnPeriod";
             this.btnPeriod.Size = new System.Drawing.Size(60, 60);
             this.btnPeriod.TabIndex = 25;
+            this.btnPeriod.TabStop = false;
             this.btnPeriod.Text = ".";
             this.btnPeriod.UseVisualStyleBackColor = false;
             this.btnPeriod.Click += new System.EventHandler(this.BtnPeriod_Click);
@@ -414,11 +440,12 @@
             // 
             this.btnX.BackColor = System.Drawing.Color.LightBlue;
             this.btnX.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnX.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnX.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnX.Location = new System.Drawing.Point(343, 279);
             this.btnX.Name = "btnX";
             this.btnX.Size = new System.Drawing.Size(60, 60);
             this.btnX.TabIndex = 26;
+            this.btnX.TabStop = false;
             this.btnX.Text = "X";
             this.btnX.UseVisualStyleBackColor = false;
             this.btnX.Click += new System.EventHandler(this.BtnX_Click);
@@ -427,11 +454,12 @@
             // 
             this.btnY.BackColor = System.Drawing.Color.LightBlue;
             this.btnY.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnY.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnY.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnY.Location = new System.Drawing.Point(409, 279);
             this.btnY.Name = "btnY";
             this.btnY.Size = new System.Drawing.Size(60, 60);
             this.btnY.TabIndex = 27;
+            this.btnY.TabStop = false;
             this.btnY.Text = "Y";
             this.btnY.UseVisualStyleBackColor = false;
             this.btnY.Click += new System.EventHandler(this.BtnY_Click);
@@ -440,11 +468,12 @@
             // 
             this.btn1.BackColor = System.Drawing.Color.LightBlue;
             this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn1.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn1.Location = new System.Drawing.Point(610, 279);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(60, 60);
             this.btn1.TabIndex = 28;
+            this.btn1.TabStop = false;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = false;
             this.btn1.Click += new System.EventHandler(this.Btn1_Click);
@@ -453,11 +482,12 @@
             // 
             this.btn2.BackColor = System.Drawing.Color.LightBlue;
             this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn2.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn2.Location = new System.Drawing.Point(676, 279);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(60, 60);
             this.btn2.TabIndex = 29;
+            this.btn2.TabStop = false;
             this.btn2.Text = "2";
             this.btn2.UseVisualStyleBackColor = false;
             this.btn2.Click += new System.EventHandler(this.Btn2_Click);
@@ -466,11 +496,12 @@
             // 
             this.btn3.BackColor = System.Drawing.Color.LightBlue;
             this.btn3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn3.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn3.Location = new System.Drawing.Point(742, 279);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(60, 60);
             this.btn3.TabIndex = 30;
+            this.btn3.TabStop = false;
             this.btn3.Text = "3";
             this.btn3.UseVisualStyleBackColor = false;
             this.btn3.Click += new System.EventHandler(this.Btn3_Click);
@@ -479,11 +510,12 @@
             // 
             this.btn4.BackColor = System.Drawing.Color.LightBlue;
             this.btn4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn4.Location = new System.Drawing.Point(808, 279);
+            this.btn4.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn4.Location = new System.Drawing.Point(806, 279);
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(60, 60);
             this.btn4.TabIndex = 31;
+            this.btn4.TabStop = false;
             this.btn4.Text = "4";
             this.btn4.UseVisualStyleBackColor = false;
             this.btn4.Click += new System.EventHandler(this.Btn4_Click);
@@ -492,11 +524,12 @@
             // 
             this.btn5.BackColor = System.Drawing.Color.LightBlue;
             this.btn5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn5.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn5.Location = new System.Drawing.Point(874, 279);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(60, 60);
             this.btn5.TabIndex = 32;
+            this.btn5.TabStop = false;
             this.btn5.Text = "5";
             this.btn5.UseVisualStyleBackColor = false;
             this.btn5.Click += new System.EventHandler(this.Btn5_Click);
@@ -505,11 +538,12 @@
             // 
             this.btn6.BackColor = System.Drawing.Color.LightBlue;
             this.btn6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn6.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn6.Location = new System.Drawing.Point(940, 279);
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(60, 60);
             this.btn6.TabIndex = 33;
+            this.btn6.TabStop = false;
             this.btn6.Text = "6";
             this.btn6.UseVisualStyleBackColor = false;
             this.btn6.Click += new System.EventHandler(this.Btn6_Click);
@@ -518,11 +552,12 @@
             // 
             this.btn7.BackColor = System.Drawing.Color.LightBlue;
             this.btn7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn7.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn7.Location = new System.Drawing.Point(1006, 279);
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(60, 60);
             this.btn7.TabIndex = 34;
+            this.btn7.TabStop = false;
             this.btn7.Text = "7";
             this.btn7.UseVisualStyleBackColor = false;
             this.btn7.Click += new System.EventHandler(this.Btn7_Click);
@@ -531,11 +566,12 @@
             // 
             this.btn8.BackColor = System.Drawing.Color.LightBlue;
             this.btn8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn8.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn8.Location = new System.Drawing.Point(1072, 279);
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(60, 60);
             this.btn8.TabIndex = 35;
+            this.btn8.TabStop = false;
             this.btn8.Text = "8";
             this.btn8.UseVisualStyleBackColor = false;
             this.btn8.Click += new System.EventHandler(this.Btn8_Click);
@@ -544,11 +580,12 @@
             // 
             this.btn0.BackColor = System.Drawing.Color.LightBlue;
             this.btn0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn0.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn0.Location = new System.Drawing.Point(544, 279);
+            this.btn0.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn0.Location = new System.Drawing.Point(541, 279);
             this.btn0.Name = "btn0";
             this.btn0.Size = new System.Drawing.Size(60, 60);
             this.btn0.TabIndex = 36;
+            this.btn0.TabStop = false;
             this.btn0.Text = "0";
             this.btn0.UseVisualStyleBackColor = false;
             this.btn0.Click += new System.EventHandler(this.Btn0_Click);
@@ -557,11 +594,12 @@
             // 
             this.btnSpace.BackColor = System.Drawing.Color.LightBlue;
             this.btnSpace.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSpace.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSpace.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSpace.Location = new System.Drawing.Point(330, 349);
             this.btnSpace.Name = "btnSpace";
             this.btnSpace.Size = new System.Drawing.Size(487, 60);
-            this.btnSpace.TabIndex = 37;
+            this.btnSpace.TabIndex = 5;
+            this.btnSpace.TabStop = false;
             this.btnSpace.Text = "Space";
             this.btnSpace.UseVisualStyleBackColor = false;
             this.btnSpace.Click += new System.EventHandler(this.BtnSpace_Click);
@@ -570,12 +608,12 @@
             // 
             this.btnClear.BackColor = System.Drawing.Color.LightBlue;
             this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClear.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClear.Location = new System.Drawing.Point(13, 349);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(311, 60);
-            this.btnClear.TabIndex = 38;
-            this.btnClear.Text = "Clear";
+            this.btnClear.TabIndex = 0;
+            this.btnClear.Text = "&Clear";
             this.btnClear.UseVisualStyleBackColor = false;
             this.btnClear.Click += new System.EventHandler(this.BtnClear_Click);
             // 
@@ -583,24 +621,26 @@
             // 
             this.btnSend.BackColor = System.Drawing.Color.LightBlue;
             this.btnSend.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSend.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSend.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSend.Location = new System.Drawing.Point(887, 349);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(311, 60);
-            this.btnSend.TabIndex = 39;
-            this.btnSend.Text = "Send";
+            this.btnSend.TabIndex = 1;
+            this.btnSend.Text = "&Send";
             this.btnSend.UseVisualStyleBackColor = false;
             this.btnSend.Click += new System.EventHandler(this.BtnSend_Click);
             // 
             // txtMessage
             // 
             this.txtMessage.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.txtMessage.Enabled = false;
             this.txtMessage.Font = new System.Drawing.Font("Courier New", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtMessage.Location = new System.Drawing.Point(13, 13);
             this.txtMessage.Multiline = true;
             this.txtMessage.Name = "txtMessage";
             this.txtMessage.Size = new System.Drawing.Size(1185, 185);
             this.txtMessage.TabIndex = 40;
+            this.txtMessage.TabStop = false;
             this.txtMessage.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // lblLastSent
@@ -615,6 +655,7 @@
             // 
             // Teletype
             // 
+            this.AcceptButton = this.btnSend;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LemonChiffon;
@@ -661,9 +702,12 @@
             this.Controls.Add(this.btnC);
             this.Controls.Add(this.btnB);
             this.Controls.Add(this.btnA);
+            this.KeyPreview = true;
             this.Name = "Teletype";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kevin Tran\'s Teletype Sim";
+            this.Load += new System.EventHandler(this.Teletype_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Teletype_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 

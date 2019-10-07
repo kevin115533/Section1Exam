@@ -10,6 +10,7 @@ using System.Windows.Forms;
 /*
  Author: Kevin Tran
  Class: ITD 1253
+ Fall 2019
  Due Date: 10/7/2019
      
      */
@@ -222,6 +223,19 @@ namespace Section1Exam
         {
             lblLastSent.Text = txtMessage.Text;
             txtMessage.Text = "";
+        }
+
+        private void Teletype_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Escape)
+            {
+                this.Close();
+            }
+        }
+
+        private void Teletype_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
